@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![<html_badge>](https://img.shields.io/badge/<HTML>-<#E34F26>?style=for-the-badge&logo=<Icon HTML5>&logoColor=<#ffffff>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 - I’m currently a student learning website design and development!
 - I like to make design clear, user focused sites that look beautiful
