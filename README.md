@@ -1,7 +1,7 @@
 
 
 ### Hi there I'm Kirstyn 👋
-- I’m a website designer, front end devekoper and recent NAIT DMIT grad!
+- I’m a website designer, front-end developer and recent NAIT DMIT grad!
 - I like to make design clear, user focused sites that look beautiful
 - Check out my portfolio at kirstyn-howell.mywhc.ca
   
